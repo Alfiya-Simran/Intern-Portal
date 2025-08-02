@@ -78,5 +78,5 @@ node server.js
 
 ### Live Links
 
-- Frontend: [Vercel/Netlify Link](https://intern-portal-frontend.vercel.app/)
-- Backend: [Render/Heroku Link](https://intern-portal-backend-wuk4.onrender.com/)
+- Frontend: (https://intern-portal-frontend.vercel.app/)
+- Backend: (https://intern-portal-backend-wuk4.onrender.com/)
