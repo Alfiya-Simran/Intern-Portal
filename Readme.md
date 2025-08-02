@@ -78,5 +78,5 @@ node server.js
 
 ### Live Links
 
-- Frontend: (https://intern-portal-frontend.vercel.app/)
-- Backend: (https://intern-portal-backend-wuk4.onrender.com/)
+- Frontend: https://intern-portal-frontend.vercel.app/
+- Backend: https://intern-portal-backend-wuk4.onrender.com/
